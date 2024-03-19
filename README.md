@@ -10,4 +10,4 @@ git clone https://github.com/Kazuya/coment
 
 cd coment
 
-node kazuya.js
+node Kazuya.js
