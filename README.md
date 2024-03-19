@@ -6,7 +6,7 @@ npm install cheerio
 
 npm install axios
 
-git clone https://github.com/Kazuya/coment
+git clone https://github.com/Kazuya-X/coment
 
 cd coment
 
